@@ -39,8 +39,8 @@ In my daily work in the public sector, I strive to replace opaque legacy systems
 
 ### 📫 Connect with me
 
-*   💼 **LinkedIn:** [Patrick Bloem](https://www.linkedin.com/in/patrick-bloem-it) *(Link hier anpassen!)*
-*   🤝 **Xing:** [Patrick Bloem](https://www.xing.com/profile/Patrick_Bloem/) *(Link hier anpassen!)*
+*   💼 **LinkedIn:** [Patrick Bloem](https://www.linkedin.com/in/patrick-bloem-it)
+*   🤝 **Xing:** [Patrick Bloem](https://www.xing.com/profile/Patrick_Bloem/) 
 
 <!--
 **patrickbloem-it/patrickbloem-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
