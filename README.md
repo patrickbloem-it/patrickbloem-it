@@ -39,7 +39,7 @@ In my daily work in the public sector, I strive to replace opaque legacy systems
 
 ### 📫 Connect with me
 
-*   💼 **LinkedIn:** [Patrick Bloem](www.linkedin.com/in/patrick-bloem-a929b03a1)
+*   💼 **LinkedIn:** [Patrick Bloem](https://www.linkedin.com/in/patrick-bloem-it/)
 *   🤝 **Xing:** [Patrick Bloem](https://www.xing.com/profile/Patrick_Bloem/) 
 
 <!--
