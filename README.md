@@ -26,6 +26,8 @@ I maintain a collection of tools and scripts to simplify the life of sysadmins i
     *   *Lightweight tool to manage and rotate ZFS snapshots on Proxmox hosts for disaster recovery.*
 *   🛡️ **[secure-docker-stack-template](https://github.com/patrickbloem-it/secure-docker-stack-template)**
     *   *Template for deploying secure, isolated web services using Docker Compose.*
+*   🌐 **[Netbird-self-hosted-stack](https://github.com/patrickbloem-it/Netbird-self-hosted-stack)**
+    *   *Reference implementation for a compliant, self-hosted overlay network infrastructure featuring CrowdSec integration and strict service isolation.
 
 ---
 
