@@ -24,7 +24,7 @@ I maintain a collection of tools and scripts to simplify the life of sysadmins i
     *   *Automated setup script to secure fresh Debian/Ubuntu instances according to security best practices.*
 *   📦 **[proxmox-zfs-snapshot-manager](https://github.com/patrickbloem-it/proxmox-zfs-snapshot-manage/blob/main/README.md)**
     *   *Lightweight tool to manage and rotate ZFS snapshots on Proxmox hosts for disaster recovery.*
-*   🛡️ **[secure-docker-stack-template](https://github.com/patrickbloem-it/secure-docker-stack-template)** (Coming Soon)
+*   🛡️ **[secure-docker-stack-template](https://github.com/patrickbloem-it/secure-docker-stack-template)**
     *   *Template for deploying secure, isolated web services using Docker Compose.*
 
 ---
